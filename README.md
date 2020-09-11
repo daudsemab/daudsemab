@@ -3,9 +3,13 @@
 I am Daud Semab, driving on the road of Full Stack Development.
 
 - 🌱 I’m currently playing around with Javascript and React Js.
+
 - 🆓 When time permits, I like to do Personal photography and for fun or peace of mind.
+
 - 🔭 I’m working on React and building portfolio.
-- 📫 Reach me out at [Linked In](https://www.linkedin.com/in/daud-semab-715039189/).
+
+- 📫 Reach me out at [LinkedIn](https://www.linkedin.com/in/daud-semab-715039189/).
+
 - ⚡ Fun fact: Love Coding ❤.
 
 ## 📝 Goals 2020
