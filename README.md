@@ -8,7 +8,7 @@ I am Daud Semab, driving on the road of Full Stack Development.
 - 📫 Reach me out at [Linked In](https://www.linkedin.com/in/daud-semab-715039189/).
 - ⚡ Fun fact: Love Coding ❤.
 
-## Goals 2020 :page_with_curl
+## Goals 2020 📝
 
 - 🎯 ************
 - 🎯 ************
