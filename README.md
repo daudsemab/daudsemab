@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi! 👋
 
-<!--
-**daudsemab/daudsemab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Daud Semab, driving on the road of Full Stack Development.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently playing around with Javascript and React Js. When time permits, I like to do Personal photography and for fun or peace of mind.
+- 🔭 I’m currently working on React and building portfolio.
+- 📫 Reach me out at [Linked In](https://www.linkedin.com/in/daudsemab/).
+- ⚡ Fun fact: Love Coding ❤.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals 2020
+
+- 🎯 ************
+- 🎯 ************
+- 🎯 ************
+- 🎯 ************
+- 🎯 ************
+- 🎯 ************
+- 🎯 ************
+- 🎯 ************
+
+Never tell anyone your future goals 😉.
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daudsemab)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudsemab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
