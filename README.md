@@ -8,7 +8,7 @@ I am Daud Semab, driving on the road of Full Stack Development.
 - 📫 Reach me out at [Linked In](https://www.linkedin.com/in/daud-semab-715039189/).
 - ⚡ Fun fact: Love Coding ❤.
 
-## Goals 2020
+## Goals 2020 :page_with_curl
 
 - 🎯 ************
 - 🎯 ************
@@ -20,7 +20,7 @@ I am Daud Semab, driving on the road of Full Stack Development.
 - 🎯 ************
 
 Never tell anyone your future goals 😉.
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daudsemab)](https://github.com/anuraghazra/github-readme-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudsemab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daudsemab)](https://github.com/anuraghazra/github-readme-stats)
