@@ -2,9 +2,9 @@
 
 I am Daud Semab, driving on the road of Full Stack Development.
 
-- 🌱 I’m currently playing around with Javascript and React Js.
+- 🌱 I’m currently playing around with React Js.
 
-- 🆓 When time permits, I like to do Personal photography and for fun or peace of mind.
+- 🆓 When time permits, I like to do Personal photography for fun or peace of mind.
 
 - 🔭 I’m working on React and building portfolio.
 
