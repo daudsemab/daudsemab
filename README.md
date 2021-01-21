@@ -57,19 +57,19 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 - 💡 Others
 
 <span>
-  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/linux/linux.png" alt="Ubuntu"/>
-</span>
-
-
-
-<span>
-  <img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/python/python.png" alt="Python"/>
+  <img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/linux/linux.png" alt="Ubuntu"/>
 </span>
 
 
 
 <span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/python/python.png" alt="Python"/>
+</span>
+
+
+
+<span>
+  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/pandas/pandas.png" alt="Pandas"/>
 </span>
 
 ## 📝 Goals 2021
