@@ -4,7 +4,7 @@ I am Daud Semab, energetic for solving real world problems using Computer Scienc
 
 - 🆓 When time permits, I like to do Personal photography for fun or peace of mind.
 
-- 🔭 I’m working on Data Science Projects.
+- 🔭 Started working on Data Science Projects.
 
 - 📫 Reach me out at [LinkedIn](https://www.linkedin.com/in/daud-semab-715039189/).
 
@@ -12,7 +12,7 @@ I am Daud Semab, energetic for solving real world problems using Computer Scienc
 
 ## 🎡 Skills
 
-- 💡Frontend Web Dev.
+- 💡 Frontend Web Dev.
 
 ## 📝 Goals 2021
 
