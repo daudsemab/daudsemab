@@ -1,18 +1,18 @@
 ## Hi! 👋
 
-I am Daud Semab, driving on the road of Full Stack Development.
+I am Daud Semab, energetic for solving Real World Problems using Computer Science.
 
-- 🌱 I’m currently playing around with React Js.
+- 🌱 SKILLS: Frontend Web Dev.
 
 - 🆓 When time permits, I like to do Personal photography for fun or peace of mind.
 
-- 🔭 I’m working on React and building portfolio.
+- 🔭 I’m working on Data Science Projects.
 
 - 📫 Reach me out at [LinkedIn](https://www.linkedin.com/in/daud-semab-715039189/).
 
 - ⚡ Fun fact: Love Coding ❤.
 
-## 📝 Goals 2020
+## 📝 Goals 2021
 
 - 🎯 ************
 - 🎯 ************
