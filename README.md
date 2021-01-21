@@ -57,13 +57,13 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 - 💡 Others
 
 <span>
-  <img width="60px" height="60px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/python/python.png" alt="Python"/>
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/python/python.png" alt="Python"/>
 </span>
 
 
 
 <span>
-  <img width="50px" height="60px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/linux/linux.png" alt="Ubuntu"/>
+  <img width="40px" height="45px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/linux/linux.png" alt="Ubuntu"/>
 </span>
 
 
