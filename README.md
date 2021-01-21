@@ -12,7 +12,7 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 
 ## 🎡 Skills
 
-- 💡 Web Developement.
+- 💡 Web Developement
 
 <span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"/>
@@ -48,8 +48,16 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/nodejs/nodejs.png" alt="nodejs"/>
 </span>
 
+
+
 <span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/postgresql/postgresql.png" alt="postgresql"/>
+</span>
+
+- 💡 Linux
+
+<span>
+  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/ubuntu/ubuntu.png" alt="Ubuntu"/>
 </span>
 
 ## 📝 Goals 2021
