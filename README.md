@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-I am Daud Semab, energetic for solving real world problems using Computer Science.
+I'm 👨‍💻 Daud Semab, energetic for solving real world problems using Computer Science.
 
 - 🆓 When time permits, I like to do Personal photography for fun or peace of mind.
 
