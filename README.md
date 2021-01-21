@@ -21,8 +21,10 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 
 
 <span>
-  <img width="40px" height="45px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/linux/linux.png" alt="Ubuntu"/>
+  <img width="50px" height="45px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/linux/linux.png" alt="Ubuntu"/>
 </span>
+
+
 
 - 💡 Web Developement
 
