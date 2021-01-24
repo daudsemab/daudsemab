@@ -2,11 +2,11 @@
 
 I'm Daud Semab 👨‍💻, energetic for solving real world problems using Computer Science.
 
-- 🔭 Started working on Data Science Projects.
+- 🔭 Started working on Data Science projects.
 
 - ⚡ Fun fact: Love Coding ❤.
 
-- 🆓 When time permits, I like to do Personal photography for fun or peace of mind.
+- 🆓 When time permits, I like to do personal photography for fun or peace of mind.
 
 ## 🎡 Skills
 
@@ -52,9 +52,6 @@ _____________________Others :~_____________________
 
 ## 📝 Goals 2021
 
-- 🎯 ************
-- 🎯 ************
-- 🎯 ************
 - 🎯 ************
 - 🎯 ************
 - 🎯 ************
