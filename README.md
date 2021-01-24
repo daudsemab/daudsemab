@@ -10,14 +10,12 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 
 - ⚡ Fun fact: Love Coding ❤.
 
-- 📫 Hit me at:  [LinkedIn](https://www.linkedin.com/in/daud-semab-715039189/)
+- 📫 Hit me at <a href="mailto:daudsemab.dxb@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/daud-semab-715039189/" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
-</a>
-
-<a href="mailto:daudsemab.dxb@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/daudsemab" target="_blank" rel="nofollow noopener noreferrer">
@@ -38,7 +36,9 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 
 
 
-- 💡 Web Developement
+- --------------------
+
+💡 Web Developement
 
 <span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"/>
