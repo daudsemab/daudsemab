@@ -6,9 +6,19 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 
 - 🔭 Started working on Data Science Projects.
 
-- 📫 Reach me out at [LinkedIn](https://www.linkedin.com/in/daud-semab-715039189/).
+
 
 - ⚡ Fun fact: Love Coding ❤.
+
+- 📫 Reach me out at:  [LinkedIn](https://www.linkedin.com/in/daud-semab-715039189/) - 
+
+- <a href="mailto:daudsemab.dxb@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+
+- <a href="https://twitter.com/daudsemab" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
 
 ## 🎡 Skills
 
