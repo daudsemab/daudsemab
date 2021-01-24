@@ -20,7 +20,7 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/python/python.png" alt="Python"/>
 </span>
 
-💡 -------------- For Web Developement
+💡💡💡 ________________________For Web Developement
 
 <span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"/>
@@ -88,6 +88,8 @@ Never tell anyone your future goals 😉.
 <a href="https://twitter.com/daudsemab" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
+
+- --------------------
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudsemab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
