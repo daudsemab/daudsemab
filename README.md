@@ -8,7 +8,9 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 
 - ⚡ Fun fact: Love Coding ❤.
 
-- 📫 Hit me at <a href="mailto:daudsemab.dxb@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
+- 📫 Hit me at:  
+
+<a href="mailto:daudsemab.dxb@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
@@ -77,8 +79,6 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 </span>
 
 
-- --------------------
-
 
 ## 📝 Goals 2021
 
@@ -92,6 +92,8 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 - 🎯 ************
 
 Never tell anyone your future goals 😉.
+
+- --------------------
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudsemab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
