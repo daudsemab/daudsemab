@@ -2,11 +2,9 @@
 
 I'm Daud Semab 👨‍💻, energetic for solving real world problems using Computer Science.
 
-- 🆓 When time permits, I like to do Personal photography for fun or peace of mind.
-
 - 🔭 Started working on Data Science Projects.
 
-
+- 🆓 When time permits, I like to do Personal photography for fun or peace of mind.
 
 - ⚡ Fun fact: Love Coding ❤.
 
@@ -22,13 +20,9 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
   <img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
+- --------------------
+
 ## 🎡 Skills
-
-<span>
-  <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/python/python.png" alt="Python"/>
-</span>
-
-
 
 <span>
   <img width="50px" height="45px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/linux/linux.png" alt="Ubuntu"/>
@@ -36,7 +30,11 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 
 
 
-- --------------------
+<span>
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/python/python.png" alt="Python"/>
+</span>
+
+- ....................
 
 💡 Web Developement
 
