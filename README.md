@@ -8,7 +8,7 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 
 - ⚡ Fun fact: Love Coding ❤.
 
-- 📫 Hit me at:  
+- 📫 Hit Me Up At :  
 
 <a href="mailto:daudsemab.dxb@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
