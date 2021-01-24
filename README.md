@@ -10,14 +10,6 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 
 ## 🎡 Skills
 
-<span>
-  <img width="50px" height="45px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/linux/linux.png" alt="Ubuntu"/>
-</span>
-
-<span>
-  <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/python/python.png" alt="Python"/>
-</span>
-
 _____________________For Web Developement :~_____________________   
 
 <span>
@@ -47,6 +39,16 @@ _____________________For Web Developement :~_____________________
 <span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/postgresql/postgresql.png" alt="postgresql"/>
 </span>  
+
+_____________________Others :~_____________________   
+
+<span>
+  <img width="50px" height="45px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/linux/linux.png" alt="Ubuntu"/>
+</span>
+
+<span>
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/python/python.png" alt="Python"/>
+</span>
 
 ## 📝 Goals 2021
 
