@@ -51,11 +51,11 @@ _____________________Others :~_____________________
 </span>
 
 <span>
-  <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/python/numpy.png" alt="NumPy"/>
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/numpy/numpy.png" alt="NumPy"/>
 </span>
 
 <span>
-  <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/python/pandas.png" alt="Pandas"/>
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/pandas/pandas.png" alt="Pandas"/>
 </span>
 
 ## 📝 Goals 2021
