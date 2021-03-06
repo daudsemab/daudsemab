@@ -46,7 +46,7 @@ _____________________For Web Developement :~_____________________
 
 _____________________Others :~_____________________   
 
-![linux](static/linux.svg) ![python](static/python.svg) ![pycharm](static/pycharm.svg) ![jupyter](static/jupyter.svg)
+![linux](static/linux.svg) ![python](static/python.svg) ![numpy](static/numpy.svg) ![pandas](static/pandas.png) ![matplotlib](static/matplotlib.svg) ![pycharm](static/pycharm.svg) ![jupyter](static/jupyter.svg)
 
 <!-- <span>
   <img width="50px" height="45px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/linux/linux.png" alt="Ubuntu"/>
