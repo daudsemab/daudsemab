@@ -2,7 +2,7 @@
 
 I'm Daud Semab 👨‍💻, energetic for solving real world problems using Computer Science.
 
-- 🔭 Started working on Data Science projects.
+- 🔭 Started learning Data Science.
 
 - ⚡ Fun fact: Love Coding ❤.
 
