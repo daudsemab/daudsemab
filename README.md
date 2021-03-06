@@ -12,7 +12,11 @@ I'm Daud Semab 👨‍💻, energetic for solving real world problems using Comp
 
 _____________________For Web Developement :~_____________________   
 
-<span>
+![html](static/html.svg) ![css](static/css.svg) ![sass](static/sass.svg) ![javascript](static/javascript.svg) ![react](static/react.svg) ![redux](static/redux.svg) ![nodejs](static/nodejs.svg) ![expressjs](static/expressjs.svg) ![postgresql](static/postgresql.svg) ![postman](static/postman.svg) ![heroku](static/heroku.svg) ![vscode](static/vscode.svg)
+
+
+
+<!-- <span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"/>
 </span>
 
@@ -38,17 +42,19 @@ _____________________For Web Developement :~_____________________
 
 <span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/postgresql/postgresql.png" alt="postgresql"/>
-</span>  
+</span>   -->
 
 _____________________Others :~_____________________   
 
-<span>
+![linux](static/linux.svg) ![python](static/python.svg) ![pycharm](static/pycharm.svg) ![jupyter](static/jupyter.svg)
+
+<!-- <span>
   <img width="50px" height="45px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/linux/linux.png" alt="Ubuntu"/>
 </span>
 
 <span>
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/python/python.png" alt="Python"/>
-</span>
+</span> -->
 
 ## 📝 Goals 2021
 
