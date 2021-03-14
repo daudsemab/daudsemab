@@ -1,8 +1,8 @@
-# Hello \\\/\\\/orld! 👋
+# Hello World! 👋
 
-I'm Daud Semab 👨‍💻, energetic for solving real world problems using Computer Science.
+I'm Daud Semab 👨‍💻, found my interest in Programming and Computer Science.
 
-- 🔭 Started learning Data Science.
+- 🔭 Started projects on Data Science.
 
 - ⚡ Fun fact: Love Coding ❤.
 
