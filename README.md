@@ -1,4 +1,4 @@
-# Hellow World! 👋
+# Hellow Vorld! 👋
 
 I'm Daud Semab 👨‍💻, energetic for solving real world problems using Computer Science.
 
