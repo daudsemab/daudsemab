@@ -1,6 +1,6 @@
-# Hello World! 👋
+# Hello Programmers! 👋
 
-I'm Daud Semab 👨‍💻, found my interest in Programming and Computer Science.
+I'm Daud Semab 👨‍💻. I found my interest in Programming and Computer Science.
 
 - 🔭 Started projects on Data Science.
 
