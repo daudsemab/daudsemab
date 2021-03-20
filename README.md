@@ -2,7 +2,7 @@
 
 I'm Daud Semab 👨‍💻. I found my interest in Programming and Computer Science.
 
-- 🔭 Started projects on Data Science.
+- 🔭 Diving into ocean of Machine Learning and Data Science.
 
 - ⚡ Fun fact: Love Coding ❤.
 
