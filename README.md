@@ -1,10 +1,10 @@
-# Hello Programmers! 👋
+# Hello Hi Haya! 👋
 
-I'm Daud Semab 👨‍💻. I found my interest in Programming and Computer Science.
+I'm Daud Semab 👨‍💻. 
 
-- 🔭 Diving into ocean of Machine Learning and Data Science.
+- 🔭 Thinking = Programming = ❤
 
-- ⚡ Fun fact: Love Coding ❤.
+- ⚡ if !(No Energy): Do Coding ❤.
 
 - 🆓 When time permits, I like to do personal photography for fun or peace of mind.
 
