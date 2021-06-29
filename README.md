@@ -4,7 +4,7 @@ I'm Daud Semab 👨‍💻.
 
 - 🔭 Thinking = Programming = ❤
 
-- ⚡ if !(Energy): Do Coding ❤.
+- ⚡ if !(Energy) : Do Coding ❤.
 
 - 🆓 When time permits, I like to do personal photography for fun or peace of mind.
 
