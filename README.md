@@ -2,7 +2,7 @@
 
 I'm Daud Semab 👨‍💻. 
 
-- 🔭 Thinking = Programming = ❤
+- 🔭 Failure build my character ✌👀
 
 - ⚡ if !(Energy) : Do Coding ❤.
 
