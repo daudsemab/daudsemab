@@ -2,7 +2,7 @@
 
 I'm Daud Semab 👨‍💻. 
 
-- 🔭 Failure build my character ✌👀
+- 🔭 Bugs challange me 🤷‍♂️
 
 - ⚡ if !(Energy) : Do Coding ❤
 
