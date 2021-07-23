@@ -82,4 +82,4 @@ Never tell anyone your future goals 😉.
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudsemab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daudsemab)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daudsemab)](https://github.com/anuraghazra/github-readme-stats) -->
