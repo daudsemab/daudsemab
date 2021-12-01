@@ -8,9 +8,9 @@ I'm Daud Semab 👨‍💻.
 
 - 🆓 When time permits, I like to do personal photography for fun or peace of mind.
 
-## 🎡 Skills
+## 🎡 Experinced in
 
-_____________________For Web Developement :~_____________________   
+_____________________Web Developement :~_____________________   
 
 ![html](static/html.svg) ![css](static/css.svg) ![sass](static/sass.svg) ![javascript](static/javascript.svg) ![react](static/react.svg) ![redux](static/redux.svg) ![nodejs](static/nodejs.svg) ![expressjs](static/expressjs.svg) ![postgresql](static/postgresql.svg) ![postman](static/postman.svg) ![heroku](static/heroku.svg) ![vscode](static/vscode.svg)
 
