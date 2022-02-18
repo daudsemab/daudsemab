@@ -56,7 +56,7 @@ _____________________Others :~_____________________
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/python/python.png" alt="Python"/>
 </span> -->
 
-## 📝 Goals 2021
+## 📝 Goals
 
 - 🎯 ************
 - 🎯 ************
