@@ -1,6 +1,4 @@
-# Hello Hi Haya! 👋
-
-I'm Daud Semab 👨‍💻. 
+# Daud Semab Here 👋 
 
 - 🔭 Bugs challange me 🤷‍♂️
 
