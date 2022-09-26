@@ -1,10 +1,6 @@
 # Daud Semab Here 👋 
 
-- 🔭 Bugs challange me 🤷‍♂️
-
 - ⚡ if !(Energy) : Do Coding ❤
-
-- 🆓 When time permits, I like to do personal photography for fun or peace of mind.
 
 ## 🎡 Experinced in
 
