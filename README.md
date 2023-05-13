@@ -12,9 +12,6 @@
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/daudsemab" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
 
 - --------------------
  
