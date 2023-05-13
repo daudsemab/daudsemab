@@ -1,6 +1,7 @@
 # Hi There! 👋 
 
-- I'm a junior student of computer science with a strong interest in machine learning and artificial intelligence. I love to explore new technologies, learn new things, and solve challenging problems.
+- I'm a junior student of computer science with a strong interest in machine learning and artificial intelligence. 
+- I love to explore new technologies, learn new things, and solve challenging problems.
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudsemab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
