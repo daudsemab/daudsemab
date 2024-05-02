@@ -1,7 +1,7 @@
-# Hi There! 👋 
+# Hi There! 👋 Daud Semab Here!
 
-- I'm a junior student of computer science with a strong interest in machine learning and artificial intelligence. 
-- I love to explore new technologies, learn new things, and solve challenging problems.
+- I'm a  computer scientist, passionate about artificial intelligence. 
+- I love to explore new technologies, learn new things, and solve challenging problems. The transformative potential of computer science and technology fuels my passion to learn and explore, driven by the opportunity to make a positive impact on people around the globe. With an uncompromising commitment to excellence, I approach each challenge as a chance to improve and grow, constantly pushing myself to new heights.
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudsemab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
