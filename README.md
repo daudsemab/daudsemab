@@ -23,14 +23,6 @@ I have 3+ years of experience across Azure, GCP, and AWS, with a focus on CI/CD,
 - Security: IAM, RBAC, SSO, MFA, SAST, SCA, DAST, STRIDE
 - Data platforms: BigQuery, Dataproc, PySpark, Microsoft Fabric
 
-## Experience Highlights
-
-- Improved deployment frequency through scalable CI/CD pipelines and release automation
-- Reduced recovery time using modular Infrastructure as Code and environment consistency
-- Lowered MTTR with centralized monitoring, actionable dashboards, and proactive alerting
-- Improved security posture through least-privilege access, shift-left security, and incident response
-- Reduced onboarding friction with documentation, architecture diagrams, and operational runbooks
-
 ## AI In DevOps
 
 I use AI where it improves real operational workflows: incident understanding, root cause analysis, documentation, observability, and reliability decisions.
