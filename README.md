@@ -20,7 +20,7 @@ I have 3+ years of experience across Azure, GCP, and AWS, with a focus on CI/CD,
 - CI/CD: Azure DevOps, GitHub Actions, Bitbucket Pipelines, Jenkins
 - Platforms: Docker, Kubernetes, AKS, Linux, NGINX
 - Observability: Azure Monitor, Grafana, PagerDuty, Graylog, Wazuh
-- Security: IAM, RBAC, SSO, MFA, SAST, SCA, DAST, STRIDE
+- Security: Shift Left, IAM, RBAC, SSO, MFA, SAST, SCA, DAST, STRIDE
 - Data platforms: BigQuery, Dataproc, PySpark, Microsoft Fabric
 
 ## AI In DevOps
