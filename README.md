@@ -48,8 +48,6 @@ AI should support human judgment, keep engineers in control, and make systems ea
 
 ## Connect
 
-- Email: [daudsemab.dxb@gmail.com](mailto:daudsemab.dxb@gmail.com)
+- LinkedIn: [daud-semab](https://www.linkedin.com/in/daud-semab)
 
-<a href="https://www.linkedin.com/in/daud-semab/" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
-</a>
+- Email: [daudsemab.dxb@gmail.com](mailto:daudsemab.dxb@gmail.com)
