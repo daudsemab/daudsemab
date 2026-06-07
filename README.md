@@ -31,11 +31,10 @@ AI should support human judgment, keep engineers in control, and make systems ea
 
 ## Background
 
-- DevOps Engineer 
+- DevOps Engineer
+- Machine Learning Research Associate
+- Full-Stack Software Engineer
 - Bachelor of Computer Science
-- Bronze Medalist
-- Dean's Roll of Honour
-- Open to remote DevOps, Platform Engineering, and SRE opportunities with startups in the US and Europe
 
 ## Accomplishments
 
